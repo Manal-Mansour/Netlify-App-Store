@@ -1,5 +1,6 @@
 
-React CRUD Products App
+### https://appstore-react-lab10.netlify.app/products
+# React CRUD Products App
 
 This project is a simple CRUD (Create, Read, Update, Delete) application built with React and JSON Server.
 It allows you to view a list of products, add new products, update prices, and delete products from a fake REST API.
