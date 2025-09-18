@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
 function Home() {
-  const [products, setProducts] = useState([]);
+  const [products, setProducts] = useState([]); 
   const getAlldata = () => {
     fetch("https://fakestoreapi.com/products")
       .then((res) => res.json())
