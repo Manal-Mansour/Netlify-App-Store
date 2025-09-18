@@ -1,0 +1,11 @@
+.col-2 {
+  background-color: gainsboro;
+  height: 900px;
+}
+
+a {
+  text-decoration: none;
+}
+li {
+  padding: 10px;
+}
