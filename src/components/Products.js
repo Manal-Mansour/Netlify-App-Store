@@ -11,7 +11,7 @@ function Home() {
 
   useEffect(() => {
     getAlldata();
-  }, []);
+  });
 
   const deleteItem = (e, product) => {
     e.preventDefault();
