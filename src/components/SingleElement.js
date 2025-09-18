@@ -12,7 +12,7 @@ function SingleElement() {
   };
   useEffect(() => {
     getProduct();
-  }, []);
+  }, [id]);
   return (
     <>
       {id && (
